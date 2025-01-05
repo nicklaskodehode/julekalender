@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: red;
+    background-image: url(./images/snows.gif);
 }
 h1{
     color: white;
@@ -35,7 +36,6 @@ h1{
     transition: transform 1.5s ease-out, opacity 2s ease-in;
     transform-origin: left center;
     cursor: pointer;
-    /* background-image: url(./images/snows.gif); */
 }
 span {
     font-size: 30px;
